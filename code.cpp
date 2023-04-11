@@ -146,27 +146,6 @@ void solve()
     cout << " at a distance of ";
     cout << ans << endl;
   }
-
-  //  Sample input
-  //   delhi
-  //   0 0
-  //   5
-  //   mumbai
-  //   4 5
-  //   punjab
-  //   1 2
-  //   haryana
-  //   3 4
-  //   kolkata
-  //   10 9
-  //   bangalore
-  //   10 8
-  //   5
-  //   1 5
-  //   4 5
-  //   1 2
-  //   2 5
-  //   1 3
 }
 
 int main()
